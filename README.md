@@ -11,4 +11,4 @@ This if a project I did just for Fun
 - Example1: 111 represents A.B.C
 - Example2: 110 represents A.B.not(C)
 
-Plese not that this programme is unable to consider don't cares!
+==Please not that this programme is unable to consider don't cares!==
