@@ -8,7 +8,7 @@ This if a project I did just for Fun
 -
 ### Output Notation
 - 1 for A and 0 for not(A)
-Example - 111 represents A.B.C
-        - 110 represents A.B.not(C)
+- Example1: 111 represents A.B.C
+- Example2: 110 represents A.B.not(C)
 
 Plese not that this programme is unable to consider don't cares!
